@@ -1,9 +1,11 @@
 import React from 'react'
-import ContenTerraAss from './Components/ContenTerraAss'
+import Assignment1 from './Components/Assignment1'
+import Assignment2 from './Components/Assignment2'
 const App = () => {
   return (
     <div>
-      <ContenTerraAss/>
+      <Assignment1/>
+      {/* <Assignment2/> */}
     </div>
   )
 }
